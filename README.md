@@ -1,2 +1,5 @@
 # firstrep-demo
-My first repository - Author - Adithya B Nair
+My first repository
+<hr> 
+<br>
+- Author - Adithya B Nair
